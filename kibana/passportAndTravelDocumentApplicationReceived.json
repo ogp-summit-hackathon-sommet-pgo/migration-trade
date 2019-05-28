@@ -1,0 +1,4 @@
+{ "index" : { "_index": "applications", "_type" : "_doc", "_id" : "2" } }
+{"date": "2015-04-01T00:00:00.000Z", "applications":{"Canda Post Receiving Agents":1475, "Consular":17747, "Certificate":1055, "Official Travel": 1435, "Security": 0, "International Processing System": 7290, "Mississauga Print Centre": 0, "Members of Parliament": 9096, "National Processing System": 52642, "Receiving Agents":57449, "Walk-in":266865}, "total":415054}
+{ "index" : { "_index": "applications", "_type" : "_doc", "_id" : "3" } }
+{"date": "2015-05-01T00:00:00.000Z", "applications":{"Canda Post Receiving Agents":1259, "Consular":17405, "Certificate":862, "Official Travel": 1715, "Security": 1, "International Processing System": 6259, "Mississauga Print Centre": 0, "Members of Parliament": 5997, "National Processing System": 45457, "Receiving Agents":54355, "Walk-in":254855}, "total":387165}
